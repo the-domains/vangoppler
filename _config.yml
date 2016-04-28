@@ -1,0 +1,28 @@
+name: VanGoppler
+favicon: null
+layout_spectrum: 0.8785414088051766
+typography_spectrum: 0.3477606372907758
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.13459196174517274
+  lightness: 0.6185008848551661
+  saturation: 0.5876263505779207
+  rhythmicContrast: 0.8860453863162547
+purpose: []
